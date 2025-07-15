@@ -75,11 +75,11 @@ npm run dev
 
 ## 📸 Screenshots
 
+<img width="1920" height="870" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/46468f18-225b-474e-92c5-2d676fe124bf" />
 
-<img width="1920" height="875" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/a224e545-45fb-465b-9716-313fe9a73805" />
+<img width="1920" height="871" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/b25bbc6b-04b2-4f3c-8874-fc96726971db" />
 
 ---
-
 
 ## 🧠 Component Overview
 
